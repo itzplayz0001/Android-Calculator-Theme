@@ -3,7 +3,7 @@
 Once all topics are covered an all in one application will be launched
 Topics covered 
 
-== Square Root ==
+== Roots ==
 
 == Statistics == 
 1) Mean 
