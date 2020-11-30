@@ -6,6 +6,6 @@ Topics covered
 == Roots ==
 
 == Statistics == 
-1) Mean 
+1) Mean - 3 Methods
 2) Mode 
 3) Median
